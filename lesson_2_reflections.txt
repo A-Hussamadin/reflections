@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 new .git file is created, 
 in order to start saving directory history.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+staging area is connected to the repository where the working directory is not,
